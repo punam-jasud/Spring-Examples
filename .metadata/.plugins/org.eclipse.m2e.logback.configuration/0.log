@@ -570,3 +570,58 @@
 2020-09-03 14:16:14,479 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\spring-hello\src\main\resources
 2020-09-03 14:16:14,492 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-03 14:16:14,492 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\spring-hello\src\test\resources
+2020-09-03 14:44:08,335 [Worker-49: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Spring-Workspace\BeanFactory-Example\pom.xml
+2020-09-03 14:44:08,705 [Worker-49: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myproject:BeanFactory-Example:0.0.1-SNAPSHOT @ E:\Spring-Workspace\BeanFactory-Example\pom.xml.
+2020-09-03 14:44:09,215 [Worker-49: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BeanFactory-Example/src/main/java
+2020-09-03 14:44:09,223 [Worker-49: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BeanFactory-Example/src/test/java
+2020-09-03 14:44:09,296 [Worker-49: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2020-09-03 14:44:10,006 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:44:10,006 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\main\resources
+2020-09-03 14:44:10,008 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:44:10,009 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\test\resources
+2020-09-03 14:44:30,681 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myproject:spring-hello:0.0.1-SNAPSHOT @ E:\Spring-Workspace\spring-hello\pom.xml.
+2020-09-03 14:44:30,881 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:44:30,881 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\spring-hello\src\main\resources
+2020-09-03 14:44:30,884 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:44:30,884 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\spring-hello\src\test\resources
+2020-09-03 14:44:35,061 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:44:35,061 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\spring-hello\src\main\resources
+2020-09-03 14:44:35,065 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:44:35,065 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\spring-hello\src\test\resources
+2020-09-03 14:45:31,780 [Worker-60: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myproject:BeanFactory-Example:0.0.1-SNAPSHOT @ E:\Spring-Workspace\BeanFactory-Example\pom.xml.
+2020-09-03 14:45:32,002 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:45:32,002 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\main\resources
+2020-09-03 14:45:32,004 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:45:32,004 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\test\resources
+2020-09-03 14:45:33,231 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:45:33,231 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\main\resources
+2020-09-03 14:45:33,234 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:45:33,234 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\test\resources
+2020-09-03 14:46:01,979 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:46:01,979 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\main\resources
+2020-09-03 14:46:01,982 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:46:01,982 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\test\resources
+2020-09-03 14:48:00,593 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:48:00,593 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\main\resources
+2020-09-03 14:48:00,595 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:48:00,595 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\test\resources
+2020-09-03 14:49:16,800 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:49:16,801 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\main\resources
+2020-09-03 14:49:16,804 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:49:16,804 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\test\resources
+2020-09-03 14:49:54,300 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:49:54,300 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\main\resources
+2020-09-03 14:49:54,304 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:49:54,304 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\test\resources
+2020-09-03 14:50:51,483 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:50:51,484 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\main\resources
+2020-09-03 14:50:51,485 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:50:51,486 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\test\resources
+2020-09-03 14:54:17,685 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:54:17,685 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\main\resources
+2020-09-03 14:54:17,687 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:54:17,687 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\test\resources
+2020-09-03 14:54:33,125 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:54:33,126 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\main\resources
+2020-09-03 14:54:33,129 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 14:54:33,129 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\BeanFactory-Example\src\test\resources
