@@ -734,3 +734,73 @@
 2020-09-03 17:43:50,138 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\SetterInjection-Example\src\main\resources
 2020-09-03 17:43:50,139 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-03 17:43:50,140 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\SetterInjection-Example\src\test\resources
+2020-09-03 18:08:13,296 [Worker-97: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Spring-Workspace\ConstructorInjection-Example\pom.xml
+2020-09-03 18:08:13,505 [Worker-97: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myproject:ConstructorInjection-Example:0.0.1-SNAPSHOT @ E:\Spring-Workspace\ConstructorInjection-Example\pom.xml.
+2020-09-03 18:08:13,804 [Worker-97: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ConstructorInjection-Example/src/main/java
+2020-09-03 18:08:13,823 [Worker-97: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ConstructorInjection-Example/src/test/java
+2020-09-03 18:08:13,934 [Worker-97: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2020-09-03 18:08:14,347 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:08:14,347 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\main\resources
+2020-09-03 18:08:14,350 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:08:14,352 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\test\resources
+2020-09-03 18:08:52,820 [Worker-96: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myproject:ConstructorInjection-Example:0.0.1-SNAPSHOT @ E:\Spring-Workspace\ConstructorInjection-Example\pom.xml.
+2020-09-03 18:08:53,179 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:08:53,180 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\main\resources
+2020-09-03 18:08:53,186 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:08:53,187 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\test\resources
+2020-09-03 18:08:53,574 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:08:53,574 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\main\resources
+2020-09-03 18:08:53,578 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:08:53,579 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\test\resources
+2020-09-03 18:09:58,085 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:09:58,086 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\main\resources
+2020-09-03 18:09:58,093 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:09:58,094 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\test\resources
+2020-09-03 18:09:59,146 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:09:59,146 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\main\resources
+2020-09-03 18:09:59,149 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:09:59,149 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\test\resources
+2020-09-03 18:10:11,078 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:10:11,078 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\main\resources
+2020-09-03 18:10:11,081 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:10:11,081 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\test\resources
+2020-09-03 18:10:32,875 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:10:32,875 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\main\resources
+2020-09-03 18:10:32,877 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:10:32,877 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\test\resources
+2020-09-03 18:14:43,695 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:14:43,696 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\main\resources
+2020-09-03 18:14:43,698 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:14:43,698 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\test\resources
+2020-09-03 18:15:35,541 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:15:35,542 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\main\resources
+2020-09-03 18:15:35,546 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:15:35,547 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\test\resources
+2020-09-03 18:17:16,428 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:17:16,429 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\main\resources
+2020-09-03 18:17:16,430 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:17:16,431 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\test\resources
+2020-09-03 18:17:26,308 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:17:26,308 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\main\resources
+2020-09-03 18:17:26,310 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:17:26,310 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\test\resources
+2020-09-03 18:18:59,231 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:18:59,231 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\main\resources
+2020-09-03 18:18:59,234 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:18:59,234 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\test\resources
+2020-09-03 18:19:57,471 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:19:57,472 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\main\resources
+2020-09-03 18:19:57,474 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:19:57,475 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\test\resources
+2020-09-03 18:20:36,019 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:20:36,019 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\main\resources
+2020-09-03 18:20:36,025 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:20:36,026 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\test\resources
+2020-09-03 18:21:34,965 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:21:34,966 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\main\resources
+2020-09-03 18:21:34,971 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:21:34,971 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\test\resources
+2020-09-03 18:23:10,130 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:23:10,130 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\main\resources
+2020-09-03 18:23:10,132 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-03 18:23:10,132 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Spring-Workspace\ConstructorInjection-Example\src\test\resources
