@@ -4,9 +4,7 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-	<bean id="helloWorld"
-		class="com.myproject.spring_hello.HelloWorld">
-		<property name="message" value="Hello World!"></property>
+	<bean id="student" class="com.myproject.BeanFactory_Example.Student">
+		<property name="name" value="Punam"></property>
 	</bean>
-
 </beans>

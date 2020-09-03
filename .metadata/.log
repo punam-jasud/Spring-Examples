@@ -33,3 +33,28 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.jobs 4 2 2020-09-03 14:44:36.906
+!MESSAGE An internal error occurred during: "Formatting...".
+!STACK 0
+org.eclipse.wst.sse.core.internal.NotImplementedException: intentionally not implemented
+	at org.eclipse.wst.sse.core.internal.text.MinimalDocument.getLineOfOffset(MinimalDocument.java:218)
+	at org.eclipse.wst.xml.core.internal.formatter.DefaultXMLPartitionFormatter.getLineDelimiter(DefaultXMLPartitionFormatter.java:1693)
+	at org.eclipse.wst.xml.core.internal.formatter.DefaultXMLPartitionFormatter.indentIfNotAlreadyIndented(DefaultXMLPartitionFormatter.java:1235)
+	at org.eclipse.wst.xml.core.internal.formatter.DefaultXMLPartitionFormatter.indentIfPossible(DefaultXMLPartitionFormatter.java:1359)
+	at org.eclipse.wst.xml.core.internal.formatter.DefaultXMLPartitionFormatter.formatStartTag(DefaultXMLPartitionFormatter.java:551)
+	at org.eclipse.wst.xml.core.internal.formatter.DefaultXMLPartitionFormatter.formatRegion(DefaultXMLPartitionFormatter.java:462)
+	at org.eclipse.wst.xml.core.internal.formatter.DefaultXMLPartitionFormatter.formatSiblings(DefaultXMLPartitionFormatter.java:505)
+	at org.eclipse.wst.xml.core.internal.formatter.DefaultXMLPartitionFormatter.format(DefaultXMLPartitionFormatter.java:218)
+	at org.eclipse.wst.xml.core.internal.formatter.DefaultXMLPartitionFormatter.format(DefaultXMLPartitionFormatter.java:174)
+	at org.eclipse.wst.xml.core.internal.formatter.XMLFormatterFormatProcessor.formatModel(XMLFormatterFormatProcessor.java:109)
+	at org.eclipse.wst.xml.core.internal.formatter.XMLFormatterFormatProcessor.formatModel(XMLFormatterFormatProcessor.java:91)
+	at org.eclipse.wst.xml.core.internal.formatter.XMLFormatterFormatProcessor.formatFile(XMLFormatterFormatProcessor.java:69)
+	at org.eclipse.wst.sse.ui.internal.handlers.FormatHandler.format(FormatHandler.java:167)
+	at org.eclipse.wst.sse.ui.internal.handlers.FormatHandler.format(FormatHandler.java:212)
+	at org.eclipse.wst.sse.ui.internal.handlers.FormatHandler.format(FormatHandler.java:238)
+	at org.eclipse.wst.sse.ui.internal.handlers.FormatHandler.format(FormatHandler.java:238)
+	at org.eclipse.wst.sse.ui.internal.handlers.FormatHandler.format(FormatHandler.java:238)
+	at org.eclipse.wst.sse.ui.internal.handlers.FormatHandler.process(FormatHandler.java:276)
+	at org.eclipse.wst.sse.ui.internal.handlers.FormatHandler$FormatJob.run(FormatHandler.java:133)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
