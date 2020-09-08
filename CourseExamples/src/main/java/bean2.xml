@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+
+
+	<bean id="engineObj" class="spring.dependency.objects.Engine"></bean>
+
+	<bean id="bike" class="spring.dependency.objects.Bike">
+		<constructor-arg name="engine" ref="engineObj"></constructor-arg>
+	</bean>
+
+	<bean id="car" class="spring.dependency.objects.Car">
+		<constructor-arg name="engine" ref="engineObj"></constructor-arg>
+	</bean>
+
+
+
+	<!-- Not referred way it will create engine object again for each object 
+		<bean id="bike" class="spring.dependency.objects.Bike"> <constructor-arg 
+		name = "engine"> <bean class="spring.dependency.objects.Engine"></bean> </constructor-arg> 
+		</bean> <bean id="car" class="spring.dependency.objects.Car"> <constructor-arg 
+		name = "engine"> <bean class="spring.dependency.objects.Engine"></bean> </constructor-arg> 
+		</bean> -->
+
+
+
+</beans>
