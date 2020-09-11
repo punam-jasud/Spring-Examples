@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="speakerRepo"
+		class="com.punam.repository.HibernateSpeakerRepositoryImpl" />
+
+
+	<bean id="speakerService"
+		class="com.punam.service.SpeakerServiceImpl" autowire="byType">
+		<!-- <bean id="speakerService" class="com.punam.service.SpeakerServiceImpl" 
+			autowire="byName"> -->
+		<!-- <bean id="speakerService" class="com.punam.service.SpeakerServiceImpl" 
+			autowire="constructor"> -->
+
+		<!-- <property name="speakerRepository" ref = "speakerRepo"></property> -->
+		<!-- <constructor-arg index="0" ref = "speakerRepo"/> -->
+
+	</bean>
+</beans>
